@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/fomightez/alien-life)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/repo/fomightez/alien-life/index.ipynb)
 
 
 # Alien Life
